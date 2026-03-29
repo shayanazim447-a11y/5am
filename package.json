@@ -1,0 +1,19 @@
+{
+  "name": "5am-books",
+  "version": "1.0.0",
+  "description": "5 AM BOOKS — Digital Library",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "test": "echo 'No tests configured'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shayanazim447-a11y/5am"
+  }
+}
